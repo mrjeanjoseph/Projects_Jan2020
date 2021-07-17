@@ -1,0 +1,19 @@
+C:\Users\Computer\source\repos\HotelApplication\HotelAppDatabase\bin\Debug\HotelAppDatabase.dacpac
+C:\Users\Computer\source\repos\HotelApplication\HotelAppDatabase\bin\Debug\HotelAppDatabase.dll
+C:\Users\Computer\source\repos\HotelApplication\HotelAppDatabase\bin\Debug\HotelAppDatabase.pdb
+C:\Users\Computer\source\repos\HotelApplication\HotelAppDatabase\obj\Debug\HotelAppDatabase.dll
+C:\Users\Computer\source\repos\HotelApplication\HotelAppDatabase\obj\Debug\HotelAppDatabase.pdb
+C:\Users\Computer\source\repos\HotelApplication\HotelAppDatabase\obj\Debug\HotelAppDatabase.sqlprojAssemblyReference.cache
+C:\Users\Computer\source\repos\HotelApplication\HotelAppDatabase\obj\Debug\Model.xml
+C:\Users\Computer\source\repos\HotelApplication\HotelAppDatabase\obj\Debug\refactor.xml
+C:\Users\Computer\source\repos\HotelApplication\HotelAppDatabase\obj\Debug\postdeploy.sql
+C:\Users\Computer\source\repos\HotelApplication\HotelAppDatabase\obj\Debug\predeploy.sql
+C:\Users\Computer\source\repos\1 - CodingAllDayEveryday\HotelApplication\HotelAppDatabase\bin\Debug\HotelAppDatabase.dacpac
+C:\Users\Computer\source\repos\1 - CodingAllDayEveryday\HotelApplication\HotelAppDatabase\bin\Debug\HotelAppDatabase.dll
+C:\Users\Computer\source\repos\1 - CodingAllDayEveryday\HotelApplication\HotelAppDatabase\bin\Debug\HotelAppDatabase.pdb
+C:\Users\Computer\source\repos\1 - CodingAllDayEveryday\HotelApplication\HotelAppDatabase\obj\Debug\Model.xml
+C:\Users\Computer\source\repos\1 - CodingAllDayEveryday\HotelApplication\HotelAppDatabase\obj\Debug\refactor.xml
+C:\Users\Computer\source\repos\1 - CodingAllDayEveryday\HotelApplication\HotelAppDatabase\obj\Debug\postdeploy.sql
+C:\Users\Computer\source\repos\1 - CodingAllDayEveryday\HotelApplication\HotelAppDatabase\obj\Debug\predeploy.sql
+C:\Users\Computer\source\repos\1 - CodingAllDayEveryday\HotelApplication\HotelAppDatabase\obj\Debug\HotelAppDatabase.dll
+C:\Users\Computer\source\repos\1 - CodingAllDayEveryday\HotelApplication\HotelAppDatabase\obj\Debug\HotelAppDatabase.pdb

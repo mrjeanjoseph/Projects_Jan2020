@@ -1,0 +1,54 @@
+﻿using HotelAppLibray.Data;
+using HotelAppLibray.Databases;
+using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.DependencyInjection;
+using System.IO;
+using System.Windows;
+
+namespace HotelApp.Desktop
+{
+    public partial class App : Application
+    {
+        public static ServiceProvider serviceProvider;
+
+        protected override void OnStartup(StartupEventArgs e)
+        {
+            base.OnStartup(e);
+
+            var services = new ServiceCollection();
+            services.AddTransient<SearchGuestsForm>();
+            services.AddTransient<CheckinForm>();
+            services.AddTransient<ISqlDataAccess, SqlDataAccess>();
+            services.AddTransient<ISqliteDataAccess, SqliteDataAccess>();
+
+            var builder = new ConfigurationBuilder()
+                .SetBasePath(Directory.GetCurrentDirectory())
+                .AddJsonFile("appsettings.json");
+
+            IConfiguration config = builder.Build();
+
+            services.AddSingleton(config);
+
+            string dbChoice = config.GetValue<string>("DatabaseChoice").ToLower();
+            if (dbChoice == "sql")
+            {
+                services.AddTransient<IDatabaseData, SqlData>();
+            }
+            else if (dbChoice == "sqlite")
+            {
+                services.AddTransient<IDatabaseData, SqliteData>();
+            }
+            else
+            {
+                // Fallback to default value here
+                services.AddTransient<IDatabaseData, SqlData>();
+            }
+
+            serviceProvider = services.BuildServiceProvider();
+            var searchGuestsForm = serviceProvider.GetService<SearchGuestsForm>();
+
+            searchGuestsForm.Show();
+
+        }
+    }
+}

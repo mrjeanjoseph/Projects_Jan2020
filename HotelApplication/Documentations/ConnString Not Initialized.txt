@@ -1,0 +1,29 @@
+
+====================================
+System.InvalidOperationException
+  HResult=0x80131509
+  Message=The ConnectionString property has not been initialized.
+  Source=System.Data.SqlClient
+  StackTrace:
+   at System.Data.SqlClient.SqlConnection.PermissionDemand()
+   at System.Data.SqlClient.SqlConnectionFactory.PermissionDemand(DbConnection outerConnection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Dapper.SqlMapper.<QueryImpl>d__140`1.MoveNext() in /_/Dapper/SqlMapper.cs:line 1083
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in /_/Dapper/SqlMapper.cs:line 725
+   at HotelAppLibray.Databases.SqlDataAccess.LoadData[T,U](String sqlStatement, U parameters, String connectionStringName, Boolean isStoredProcedure) in C:\Users\Computer\source\repos\HotelApplication\HotelAppLibray\Databases\SqlDataAccess.cs:line 36
+   at HotelAppLibray.Data.SqlData.GetAvailableRooms(DateTime startDate, DateTime endDate) in C:\Users\Computer\source\repos\HotelApplication\HotelAppLibray\Data\SqlData.cs:line 21
+   at HotelApp.Web.Pages.RoomSearchModel.OnGet() in C:\Users\Computer\source\repos\HotelApplication\HotelApp.Web\Pages\RoomSearch.cshtml.cs:line 40
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.ExecutorFactory.VoidHandlerMethod.Execute(Object receiver, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.<InvokeHandlerMethodAsync>d__30.MoveNext()
+
+  This exception was originally thrown at this call stack:
+    [External Code]
+    HotelAppLibray.Databases.SqlDataAccess.LoadData<T, U>(string, U, string, bool) in SqlDataAccess.cs
+    HotelAppLibray.Data.SqlData.GetAvailableRooms(System.DateTime, System.DateTime) in SqlData.cs
+    HotelApp.Web.Pages.RoomSearchModel.OnGet() in RoomSearch.cshtml.cs
+    [External Code]

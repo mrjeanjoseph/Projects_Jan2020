@@ -1,0 +1,27 @@
+C:\Users\Computer\source\repos\HotelApplication\HotelAppLibray\bin\Debug\netstandard2.0\HotelAppLibray.deps.json
+C:\Users\Computer\source\repos\HotelApplication\HotelAppLibray\bin\Debug\netstandard2.0\HotelAppLibray.dll
+C:\Users\Computer\source\repos\HotelApplication\HotelAppLibray\bin\Debug\netstandard2.0\HotelAppLibray.pdb
+C:\Users\Computer\source\repos\HotelApplication\HotelAppLibray\obj\Debug\netstandard2.0\HotelAppLibray.csprojAssemblyReference.cache
+C:\Users\Computer\source\repos\HotelApplication\HotelAppLibray\obj\Debug\netstandard2.0\HotelAppLibray.AssemblyInfoInputs.cache
+C:\Users\Computer\source\repos\HotelApplication\HotelAppLibray\obj\Debug\netstandard2.0\HotelAppLibray.AssemblyInfo.cs
+C:\Users\Computer\source\repos\HotelApplication\HotelAppLibray\obj\Debug\netstandard2.0\HotelAppLibray.csproj.CoreCompileInputs.cache
+C:\Users\Computer\source\repos\HotelApplication\HotelAppLibray\obj\Debug\netstandard2.0\HotelAppLibray.dll
+C:\Users\Computer\source\repos\HotelApplication\HotelAppLibray\obj\Debug\netstandard2.0\HotelAppLibray.pdb
+C:\Users\Computer\source\repos\1 - CodingAllDayEveryday\HotelApplication\HotelAppLibray\bin\Debug\netstandard2.0\HotelAppLibray.deps.json
+C:\Users\Computer\source\repos\1 - CodingAllDayEveryday\HotelApplication\HotelAppLibray\bin\Debug\netstandard2.0\HotelAppLibray.dll
+C:\Users\Computer\source\repos\1 - CodingAllDayEveryday\HotelApplication\HotelAppLibray\bin\Debug\netstandard2.0\HotelAppLibray.pdb
+C:\Users\Computer\source\repos\1 - CodingAllDayEveryday\HotelApplication\HotelAppLibray\obj\Debug\netstandard2.0\HotelAppLibray.csprojAssemblyReference.cache
+C:\Users\Computer\source\repos\1 - CodingAllDayEveryday\HotelApplication\HotelAppLibray\obj\Debug\netstandard2.0\HotelAppLibray.AssemblyInfoInputs.cache
+C:\Users\Computer\source\repos\1 - CodingAllDayEveryday\HotelApplication\HotelAppLibray\obj\Debug\netstandard2.0\HotelAppLibray.AssemblyInfo.cs
+C:\Users\Computer\source\repos\1 - CodingAllDayEveryday\HotelApplication\HotelAppLibray\obj\Debug\netstandard2.0\HotelAppLibray.csproj.CoreCompileInputs.cache
+C:\Users\Computer\source\repos\1 - CodingAllDayEveryday\HotelApplication\HotelAppLibray\obj\Debug\netstandard2.0\HotelAppLibray.dll
+C:\Users\Computer\source\repos\1 - CodingAllDayEveryday\HotelApplication\HotelAppLibray\obj\Debug\netstandard2.0\HotelAppLibray.pdb
+C:\Users\Computer\source\repos\1 - GITHUB PROJECTS\1 - CodingAllDayEveryday\HotelApplication\HotelAppLibray\bin\Debug\netstandard2.0\HotelAppLibray.deps.json
+C:\Users\Computer\source\repos\1 - GITHUB PROJECTS\1 - CodingAllDayEveryday\HotelApplication\HotelAppLibray\bin\Debug\netstandard2.0\HotelAppLibray.dll
+C:\Users\Computer\source\repos\1 - GITHUB PROJECTS\1 - CodingAllDayEveryday\HotelApplication\HotelAppLibray\bin\Debug\netstandard2.0\HotelAppLibray.pdb
+C:\Users\Computer\source\repos\1 - GITHUB PROJECTS\1 - CodingAllDayEveryday\HotelApplication\HotelAppLibray\obj\Debug\netstandard2.0\HotelAppLibray.csprojAssemblyReference.cache
+C:\Users\Computer\source\repos\1 - GITHUB PROJECTS\1 - CodingAllDayEveryday\HotelApplication\HotelAppLibray\obj\Debug\netstandard2.0\HotelAppLibray.AssemblyInfoInputs.cache
+C:\Users\Computer\source\repos\1 - GITHUB PROJECTS\1 - CodingAllDayEveryday\HotelApplication\HotelAppLibray\obj\Debug\netstandard2.0\HotelAppLibray.AssemblyInfo.cs
+C:\Users\Computer\source\repos\1 - GITHUB PROJECTS\1 - CodingAllDayEveryday\HotelApplication\HotelAppLibray\obj\Debug\netstandard2.0\HotelAppLibray.csproj.CoreCompileInputs.cache
+C:\Users\Computer\source\repos\1 - GITHUB PROJECTS\1 - CodingAllDayEveryday\HotelApplication\HotelAppLibray\obj\Debug\netstandard2.0\HotelAppLibray.dll
+C:\Users\Computer\source\repos\1 - GITHUB PROJECTS\1 - CodingAllDayEveryday\HotelApplication\HotelAppLibray\obj\Debug\netstandard2.0\HotelAppLibray.pdb

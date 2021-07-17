@@ -1,0 +1,118 @@
+C:\Users\Computer\source\repos\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\bin\Debug\netcoreapp3.1\HotelApp.Desktop.exe
+C:\Users\Computer\source\repos\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\bin\Debug\netcoreapp3.1\HotelApp.Desktop.deps.json
+C:\Users\Computer\source\repos\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\bin\Debug\netcoreapp3.1\HotelApp.Desktop.runtimeconfig.json
+C:\Users\Computer\source\repos\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\bin\Debug\netcoreapp3.1\HotelApp.Desktop.runtimeconfig.dev.json
+C:\Users\Computer\source\repos\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\bin\Debug\netcoreapp3.1\HotelApp.Desktop.dll
+C:\Users\Computer\source\repos\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\bin\Debug\netcoreapp3.1\HotelApp.Desktop.pdb
+C:\Users\Computer\source\repos\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\obj\Debug\netcoreapp3.1\HotelApp.Desktop.csprojAssemblyReference.cache
+C:\Users\Computer\source\repos\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Computer\source\repos\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\obj\Debug\netcoreapp3.1\HotelApp.Desktop_MarkupCompile.cache
+C:\Users\Computer\source\repos\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\obj\Debug\netcoreapp3.1\HotelApp.Desktop_MarkupCompile.lref
+C:\Users\Computer\source\repos\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\obj\Debug\netcoreapp3.1\HotelApp.Desktop.g.resources
+C:\Users\Computer\source\repos\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\obj\Debug\netcoreapp3.1\HotelApp.Desktop.AssemblyInfoInputs.cache
+C:\Users\Computer\source\repos\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\obj\Debug\netcoreapp3.1\HotelApp.Desktop.AssemblyInfo.cs
+C:\Users\Computer\source\repos\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\obj\Debug\netcoreapp3.1\HotelApp.Desktop.csproj.CoreCompileInputs.cache
+C:\Users\Computer\source\repos\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\obj\Debug\netcoreapp3.1\HotelApp.Desktop.dll
+C:\Users\Computer\source\repos\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\obj\Debug\netcoreapp3.1\HotelApp.Desktop.pdb
+C:\Users\Computer\source\repos\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\obj\Debug\netcoreapp3.1\HotelApp.Desktop.genruntimeconfig.cache
+C:\Users\Computer\source\repos\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Computer\source\repos\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Computer\source\repos\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Computer\source\repos\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Computer\source\repos\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Computer\source\repos\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Computer\source\repos\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Computer\source\repos\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Computer\source\repos\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Computer\source\repos\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Computer\source\repos\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Computer\source\repos\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Computer\source\repos\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Computer\source\repos\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\obj\Debug\netcoreapp3.1\HotelApp.Desktop.csproj.CopyComplete
+C:\Users\Computer\source\repos\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\Computer\source\repos\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Computer\source\repos\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Computer\source\repos\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Computer\source\repos\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Computer\source\repos\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Computer\source\repos\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Computer\source\repos\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\bin\Debug\netcoreapp3.1\HotelAppLibray.dll
+C:\Users\Computer\source\repos\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\bin\Debug\netcoreapp3.1\HotelAppLibray.pdb
+C:\Users\Computer\source\repos\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\obj\Debug\netcoreapp3.1\CheckinForm.g.cs
+C:\Users\Computer\source\repos\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\obj\Debug\netcoreapp3.1\CheckinForm.baml
+C:\Users\Computer\source\repos\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Computer\source\repos\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Computer\source\repos\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Computer\source\repos\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Computer\source\repos\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Computer\source\repos\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Computer\source\repos\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Computer\source\repos\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Computer\source\repos\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Computer\source\repos\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Computer\source\repos\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\bin\Debug\netcoreapp3.1\System.Data.SQLite.dll
+C:\Users\Computer\source\repos\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Computer\source\repos\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Computer\source\repos\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Computer\source\repos\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Computer\source\repos\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\obj\Debug\netcoreapp3.1\SearchGuestsForm.g.cs
+C:\Users\Computer\source\repos\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\obj\Debug\netcoreapp3.1\SearchGuestsForm.baml
+C:\Users\Computer\source\repos\1 - GITHUB PROJECTS\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Computer\source\repos\1 - GITHUB PROJECTS\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\bin\Debug\netcoreapp3.1\HotelApp.Desktop.exe
+C:\Users\Computer\source\repos\1 - GITHUB PROJECTS\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\bin\Debug\netcoreapp3.1\HotelApp.Desktop.deps.json
+C:\Users\Computer\source\repos\1 - GITHUB PROJECTS\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\bin\Debug\netcoreapp3.1\HotelApp.Desktop.runtimeconfig.json
+C:\Users\Computer\source\repos\1 - GITHUB PROJECTS\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\bin\Debug\netcoreapp3.1\HotelApp.Desktop.runtimeconfig.dev.json
+C:\Users\Computer\source\repos\1 - GITHUB PROJECTS\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\bin\Debug\netcoreapp3.1\HotelApp.Desktop.dll
+C:\Users\Computer\source\repos\1 - GITHUB PROJECTS\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\bin\Debug\netcoreapp3.1\HotelApp.Desktop.pdb
+C:\Users\Computer\source\repos\1 - GITHUB PROJECTS\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\Computer\source\repos\1 - GITHUB PROJECTS\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Computer\source\repos\1 - GITHUB PROJECTS\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Computer\source\repos\1 - GITHUB PROJECTS\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Computer\source\repos\1 - GITHUB PROJECTS\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Computer\source\repos\1 - GITHUB PROJECTS\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Computer\source\repos\1 - GITHUB PROJECTS\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Computer\source\repos\1 - GITHUB PROJECTS\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Computer\source\repos\1 - GITHUB PROJECTS\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Computer\source\repos\1 - GITHUB PROJECTS\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Computer\source\repos\1 - GITHUB PROJECTS\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Computer\source\repos\1 - GITHUB PROJECTS\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Computer\source\repos\1 - GITHUB PROJECTS\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Computer\source\repos\1 - GITHUB PROJECTS\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Computer\source\repos\1 - GITHUB PROJECTS\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Computer\source\repos\1 - GITHUB PROJECTS\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Computer\source\repos\1 - GITHUB PROJECTS\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Computer\source\repos\1 - GITHUB PROJECTS\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Computer\source\repos\1 - GITHUB PROJECTS\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Computer\source\repos\1 - GITHUB PROJECTS\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\bin\Debug\netcoreapp3.1\System.Data.SQLite.dll
+C:\Users\Computer\source\repos\1 - GITHUB PROJECTS\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Computer\source\repos\1 - GITHUB PROJECTS\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Computer\source\repos\1 - GITHUB PROJECTS\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Computer\source\repos\1 - GITHUB PROJECTS\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Computer\source\repos\1 - GITHUB PROJECTS\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Computer\source\repos\1 - GITHUB PROJECTS\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Computer\source\repos\1 - GITHUB PROJECTS\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Computer\source\repos\1 - GITHUB PROJECTS\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Computer\source\repos\1 - GITHUB PROJECTS\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Computer\source\repos\1 - GITHUB PROJECTS\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Computer\source\repos\1 - GITHUB PROJECTS\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Computer\source\repos\1 - GITHUB PROJECTS\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Computer\source\repos\1 - GITHUB PROJECTS\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Computer\source\repos\1 - GITHUB PROJECTS\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Computer\source\repos\1 - GITHUB PROJECTS\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\bin\Debug\netcoreapp3.1\HotelAppLibray.dll
+C:\Users\Computer\source\repos\1 - GITHUB PROJECTS\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\bin\Debug\netcoreapp3.1\HotelAppLibray.pdb
+C:\Users\Computer\source\repos\1 - GITHUB PROJECTS\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\obj\Debug\netcoreapp3.1\HotelApp.Desktop.csprojAssemblyReference.cache
+C:\Users\Computer\source\repos\1 - GITHUB PROJECTS\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\obj\Debug\netcoreapp3.1\CheckinForm.g.cs
+C:\Users\Computer\source\repos\1 - GITHUB PROJECTS\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\obj\Debug\netcoreapp3.1\SearchGuestsForm.g.cs
+C:\Users\Computer\source\repos\1 - GITHUB PROJECTS\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Computer\source\repos\1 - GITHUB PROJECTS\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\obj\Debug\netcoreapp3.1\HotelApp.Desktop_MarkupCompile.cache
+C:\Users\Computer\source\repos\1 - GITHUB PROJECTS\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\obj\Debug\netcoreapp3.1\HotelApp.Desktop_MarkupCompile.lref
+C:\Users\Computer\source\repos\1 - GITHUB PROJECTS\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\obj\Debug\netcoreapp3.1\CheckinForm.baml
+C:\Users\Computer\source\repos\1 - GITHUB PROJECTS\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\obj\Debug\netcoreapp3.1\SearchGuestsForm.baml
+C:\Users\Computer\source\repos\1 - GITHUB PROJECTS\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\obj\Debug\netcoreapp3.1\HotelApp.Desktop.g.resources
+C:\Users\Computer\source\repos\1 - GITHUB PROJECTS\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\obj\Debug\netcoreapp3.1\HotelApp.Desktop.AssemblyInfoInputs.cache
+C:\Users\Computer\source\repos\1 - GITHUB PROJECTS\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\obj\Debug\netcoreapp3.1\HotelApp.Desktop.AssemblyInfo.cs
+C:\Users\Computer\source\repos\1 - GITHUB PROJECTS\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\obj\Debug\netcoreapp3.1\HotelApp.Desktop.csproj.CoreCompileInputs.cache
+C:\Users\Computer\source\repos\1 - GITHUB PROJECTS\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\obj\Debug\netcoreapp3.1\HotelApp.Desktop.csproj.CopyComplete
+C:\Users\Computer\source\repos\1 - GITHUB PROJECTS\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\obj\Debug\netcoreapp3.1\HotelApp.Desktop.dll
+C:\Users\Computer\source\repos\1 - GITHUB PROJECTS\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\obj\Debug\netcoreapp3.1\HotelApp.Desktop.pdb
+C:\Users\Computer\source\repos\1 - GITHUB PROJECTS\1 - CodingAllDayEveryday\HotelApplication\HotelApp.Desktop\obj\Debug\netcoreapp3.1\HotelApp.Desktop.genruntimeconfig.cache
